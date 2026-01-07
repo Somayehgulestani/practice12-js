@@ -1,0 +1,16 @@
+ul{
+    font-weight: 600;
+   list-style-type: none;
+   
+}
+#box{
+    width: 75px;
+    height: 75px;
+    border: 2px solid black;
+    background-color: hsla(287, 39%, 10%, 0.5);
+    text-align: center;
+    display: flex;
+align-items: center;
+justify-content: center;
+    
+}
